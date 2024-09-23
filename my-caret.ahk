@@ -4,7 +4,7 @@
 #SingleInstance Force
 #Requires AutoHotkey v2.0
 
-#include lib/GetInputLocaleIndex.ahk
+#include lib/GetEnglishKoreanIndex.ahk
 #include lib/ImagePut.ahk
 #include lib/GetCaretRect.ahk
 #include lib/GetCapslockState.ahk

@@ -5,7 +5,7 @@
 #SingleInstance Force
 #Requires AutoHotkey v2.0
 
-#include lib/GetInputLocaleIndex.ahk
+#include lib/GetEnglishKoreanIndex.ahk
 #include lib/GetCapslockState.ahk
 ;#include lib/Log.ahk
 ;#include lib/Jsons.ahk
